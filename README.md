@@ -1,5 +1,5 @@
 # Blog repository on Machine Learning & Deep Learning Concepts
-A repository of Python notebooks that illustrate various machine learning and deep learning concepts, such as comparing different types of optimizers, as featured in my Medium blog posts.
+A repository of Python notebooks that illustrates various machine learning and deep learning concepts, such as comparing different types of optimizers, as featured in my Medium blog posts.
 
 ## Description
 This repository complements my Medium blog, where I delve into various topics in machine learning and deep learning. Each notebook here corresponds to a specific blog post and provides a detailed implementation for the concepts discussed.
